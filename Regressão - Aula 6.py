@@ -1,3 +1,5 @@
+#Equipe: Nayara Thaiza, Mariana Leandra, Samuel Soares
+
 #!/usr/bin/env python
 # coding: utf-8
 
